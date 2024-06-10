@@ -1,6 +1,7 @@
 # Jogo do Oito (8-puzzle)
 
-![tela inicial](./tela.png)
+![tela](https://github.com/PaimMauricio-CC/apsjogo/assets/69939059/f08a6541-aee6-42bd-b281-f10c4835def8)
+
 
 ## Introdução
 O desafio proposto foi criar o Jogo do Oito na linguagem java, aplicando as metodologias que a orientação à objetos suporta para arquitetar o software de maneira organizada e reutilizável. Usando também tecnologias e bibliotecas como JDBC, Swing, Hibernate. Para criar serialização do estado do jogo e a inteface gráfica.
